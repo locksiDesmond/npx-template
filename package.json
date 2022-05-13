@@ -1,0 +1,23 @@
+{
+  "name": "npx-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/locksiDesmond/npx-template.git"
+  },
+  "publishConfig": {
+	"@locksiDesmond:registry": "https://npm.pkg.github.com"
+  },
+  "keywords": [],
+  "author": "Adenola Desmond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/locksiDesmond/npx-template/issues"
+  },
+  "homepage": "https://github.com/locksiDesmond/npx-template-src.git#readme"
+}
